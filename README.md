@@ -3,8 +3,12 @@
 ## How to download the course?
 
 `
-git clone --single-branch --branch [branch-name] [https://repository.git]
+git clone https://github.com/4NGELUENG0/recommendation_course_T3chFest2023.git
 `
+
+download data from https://we.tl/t-AADb40Wiv7 and extract "recursos"
+
+
 
 ## How do you install the environment?
 
@@ -25,3 +29,4 @@ Launch the course:
 `
 jupyter lab
 `
+
