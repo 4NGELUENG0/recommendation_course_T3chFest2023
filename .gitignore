@@ -1,0 +1,5 @@
+*.ipynb_checkpoints
+*.pdf
+*.h5
+__pycache__
+catboost_info/

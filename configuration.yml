@@ -1,0 +1,40 @@
+DTYPES_ARTICLES:
+  article_id: object
+  product_code: object
+  prod_name: object
+  product_type_no: np.int32
+  product_type_name: object
+  product_group_name: object
+  graphical_appearance_no: np.int64
+  graphical_appearance_name: object
+  colour_group_code: np.int16
+  colour_group_name: object
+  perceived_colour_value_id: object
+  perceived_colour_value_name: object
+  perceived_colour_master_id: object
+  perceived_colour_master_name: object
+  department_no: np.int32
+  department_name: object
+  index_code: object
+  index_name: object
+  index_group_no: np.int16
+  index_group_name: object
+  section_no: np.int16
+  section_name: object
+  garment_group_no: np.int32
+  garment_group_name: object
+  detail_desc: object
+DTYPES_CUSTOMERS:
+  customer_id: object
+  FN: np.float16
+  Active: np.float16
+  club_member_status: object
+  fashion_news_frequency: object
+  age: np.float32
+  postal_code: category
+DTYPES_TRANSACTIONS:
+  t_dat: category
+  customer_id: category
+  article_id: category
+  price: np.float16
+  sales_channel_id: np.int16
