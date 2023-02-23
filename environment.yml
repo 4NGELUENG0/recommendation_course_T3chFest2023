@@ -14,3 +14,5 @@ dependencies:
   - pip:
     - tensorflow==2.11.0
     - PyYaml==6.0
+    - widgetsnbextension==4.0.5
+    - ipywidgets==8.0.4
