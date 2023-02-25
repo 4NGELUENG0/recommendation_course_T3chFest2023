@@ -29,4 +29,9 @@ Launch the course:
 `
 jupyter lab
 `
+## Q&A
 
+`
+https://app.sli.do/event/v1G16HLNfcodgq6GjigifB
+
+`
